@@ -35,10 +35,11 @@ This project helped me:
 
 ## Dashboards
 
-- **Power BI Dashboard:** *(link here)*  
-- **Tableau Dashboard:** *(link here)*  
+- **Power BI Dashboard:** *(https://app.powerbi.com/groups/me/reports/34728c59-2838-4409-b203-b67211805ad9/c5a2a02cd4daeb0011b7?experience=power-bi)*  
+- **Tableau Dashboard:** *(https://public.tableau.com/app/profile/md.soliman.ali/viz/ConsumerSalesAnalysisDashboard_17645120947910/Dashboard2?publish=yes)*  
 
 ## About Me
+I am Md Soliman Ali, currently working as a passionate Database Engineer at V2 Technologies Ltd. with a strong foundation in SQL, database management systems, and data modeling. I thrive on optimizing database performance, ensuring data integrity, and developing efficient data-driven solutions. With a proven track record of real-time collaboration with companies such as British American Tobacco Bangladesh and Unilever Bangladesh, Grameenphone, RYZE(Banglalink), and others.
 
 I work professionally in the database and data engineering space, and I enjoy projects where structured data transforms into something meaningful for decision-makers.  
 This repository is part of my growing BI portfolio, combining data intuition with dashboard storytelling.
